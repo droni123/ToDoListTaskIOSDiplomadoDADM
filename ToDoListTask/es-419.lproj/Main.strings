@@ -1,0 +1,12 @@
+
+/* Class = "UITableViewSection"; headerTitle = "Notes"; ObjectID = "2vm-O9-NLR"; */
+"2vm-O9-NLR.headerTitle" = "Notas";
+
+/* Class = "UITableViewSection"; headerTitle = "Date"; ObjectID = "cIg-6M-Y2H"; */
+"cIg-6M-Y2H.headerTitle" = "Fecha";
+
+/* Class = "UILabel"; text = ""; ObjectID = "rFq-B5-mRD"; */
+"rFq-B5-mRD.text" = "";
+
+/* Class = "UITableViewSection"; headerTitle = "Title"; ObjectID = "wEB-6p-UDR"; */
+"wEB-6p-UDR.headerTitle" = "Titulo";

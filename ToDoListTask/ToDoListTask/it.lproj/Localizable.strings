@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  ToDoListTask
+
+  Created by De la Cruz Hernández on 19/12/22.
+  
+*/
+
+"lang.ErrorToSave" = "Errore di salvataggio";
+"lang.Tasks" = "Attività";
+"lang.Delete" = "Elimina";
+"lang.Warning" = "Avviso";
+"lang.DeleteThisTask" = "Eliminare questa attività?";
+"lang.ErrorToDelete" = "Errore di eliminazione";
+"lang.Cancel" = "Annulla";
+"lang.Agree" = "Accetto";
+"lang.Message" = "Messaggio";
+"lang.TitleIsEmpty" = "Il titolo è vuoto";
+"lang.Done" = "Fatto";
